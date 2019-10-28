@@ -24,7 +24,7 @@ import { swiper, swiperSlide } from 'vue-awesome-swiper'
                 'https://img11.360buyimg.com/pop/s1180x940_jfs/t1/77961/39/13155/49010/5da7db06Eaa97b038/aa7bb81b583d2502.jpg.webp',
                 'https://img13.360buyimg.com/pop/s1180x940_jfs/t1/82209/16/13406/158836/5dae81cdE68e3939c/b55e46a230b1a85f.jpg.webp'],
         swiperConfig:{
-           slidesPerView: 3,
+           slidesPerView: 2,
           spaceBetween: 30,
           pagination: {
             el: '.swiper-pagination',

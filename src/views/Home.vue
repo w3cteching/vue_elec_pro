@@ -2,7 +2,7 @@
   <div class="home">
      <h2>home</h2>
      <p>vuex1:: {{ num  }}</p>
-     <button @click="increment(9)">增加-苏日娜</button>
+     <button @click="increment(9)">增加-苏日娜111</button>
      <button @click="decrement(9)">减少-李阳</button>
   
      <p>aaaa{{ mingzizi }}</p>
